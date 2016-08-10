@@ -7327,10 +7327,10 @@ a:hover {
   border-bottom: none;
 }
 .post.mini-post .post-title {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.42857143;
   margin-bottom: 10px;
-  margin-top: 0;
+  margin-top: 20px;
 }
 .post.mini-post .post-date {
   font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
